@@ -1,0 +1,22 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "divide and conquer",
+  "main": "chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberTrebuchet/chat.git"
+  },
+  "author": "cyberTrebuchet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyberTrebuchet/chat/issues"
+  },
+  "homepage": "https://github.com/cyberTrebuchet/chat#readme",
+  "dependencies": {
+    "chalk": "^1.1.0"
+  }
+}
