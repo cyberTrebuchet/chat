@@ -10,7 +10,7 @@
 
 var fs = require("fs");
 var net = require("net");
-var port = 2000;
+var port = 2001;
 var chalk = require("chalk");
 
 var clients = [];
